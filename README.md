@@ -71,7 +71,7 @@ This course tries to cater for many types of learners:
 <br>
 Take your first steps with Docker containers. In this tutorial we are going to Dockerize a Django application as a complete beginner to Docker. We first Create a new Django application then Prepare a Django app for Docker building a Dockerfile. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. Now we go ahead and Build a Docker image and then finally Start a new Docker container to display Django running in our container.
 <br><br>
-* Link to Tutorial https://youtu.be/W5Ov0H7E_o4
+Link to Tutorial https://youtu.be/W5Ov0H7E_o4
 </details>
 
 <details>
