@@ -119,6 +119,15 @@ This is a docker compose tutorial we take your first steps creating a deployment
 * Link to Tutorial https://youtu.be/e63EBEFJkH0
 </details>
 
+<details>
+<summary><b>Part-7 Docker | RabbitMQ | Celery | Quick-Start guide</b>
+</summary>
+<br>
+Welcome to another Docker tutorial. The Windows platform does not support easy setup and configuration of Redis or RabbitMQ. This tutorial takes you through the quick steps of setting up RabbitMQ with Docker for your Django Celery applications. The end result, RabbitMQ is severed from a Docker container and can be used for any of your Django apps locally. 
+<br><br>
+* Link to Tutorial https://youtu.be/t2ZoVlqlQyA
+</details>
+
 ## Community Driven Content
 I activity try and promote feedback to taylor courses to your needs and wishes. Here is a list of features requested by community. If you would like to request any other feature not listed here - please visit our YouTube channel and make a comment.
 
