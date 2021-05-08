@@ -80,7 +80,7 @@ Link to Tutorial https://youtu.be/W5Ov0H7E_o4
 <br>
 In this Docker compose tutorial we start an application with Docker Compose and run it in a container. I will then show you how to configure a volume to build a mirrored folder from your computer and the container. This way you can develop on your computer but host the application in a container. This is a docker compose tutorial for beginners. Take your first steps with Docker containers. 
 <br><br>
-* Link to Tutorial https://youtu.be/aMqs_y6dZw4
+Link to Tutorial https://youtu.be/aMqs_y6dZw4
 </details>
 
 <details>
@@ -89,7 +89,7 @@ In this Docker compose tutorial we start an application with Docker Compose and 
 <br>
 In this Docker compose tutorial we start a Django application with Docker Compose and run it in a container. I will then show you how to configure a volume to build a mirrored folder from your computer and the container. This way you can develop on your computer but host the application in a container. Next up we configure first a PostgreSQL database and attach it to Django then build a bassline configuration for MySQL for a Django application. This is a docker compose tutorial for beginners. Take your first steps with Docker containers. 
 <br><br>
-* Link to Tutorial https://youtu.be/q75wgk9jVjA
+Link to Tutorial https://youtu.be/q75wgk9jVjA
 </details>
 
 <details>
@@ -98,7 +98,7 @@ In this Docker compose tutorial we start a Django application with Docker Compos
 <br>
 In this Docker compose tutorial we setup Django with Postgres, Redis and Celery. We conclude the tutorial by building a new image, testing the setup by creating a simple Celery task.
 <br><br>
-* Link to Tutorial https://youtu.be/zGtGliXMrPQ
+Link to Tutorial https://youtu.be/zGtGliXMrPQ
 </details>
 
 <details>
@@ -107,7 +107,7 @@ In this Docker compose tutorial we setup Django with Postgres, Redis and Celery.
 <br>
 This is a docker tutorial for beginners. Take your first steps with Docker containers with React. In this tutorial we are going to Dockerize a React application as a complete beginner to Docker. We first Create a new React application then Prepare a React app for Docker building a Dockerfile. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. Now we go ahead and Build a Docker image and then finally Start a new Docker container to display React running in our container.
 <br><br>
-* Link to Tutorial https://youtu.be/xtllpDEOw4w
+Link to Tutorial https://youtu.be/xtllpDEOw4w
 </details>
 
 <details>
@@ -116,7 +116,7 @@ This is a docker tutorial for beginners. Take your first steps with Docker conta
 <br>
 This is a docker compose tutorial we take your first steps creating a deployment setup with React and Django running on a Nginx server, supported with gunicorn for Django. Having already created a basic React and Django application, see the link below for repositories, we first build the docker files needed for both Django and React before then building a docker compose file. This tutorial gives you a better understanding of docker volumes and bind mounts as we look at using both tools. We then build our nginx configuration to serve react from the root directory. Finally we expand the nginx configuration to include a proxy to the Django API.
 <br><br>
-* Link to Tutorial https://youtu.be/e63EBEFJkH0
+Link to Tutorial https://youtu.be/e63EBEFJkH0
 </details>
 
 <details>
@@ -125,7 +125,16 @@ This is a docker compose tutorial we take your first steps creating a deployment
 <br>
 Welcome to another Docker tutorial. The Windows platform does not support easy setup and configuration of Redis or RabbitMQ. This tutorial takes you through the quick steps of setting up RabbitMQ with Docker for your Django Celery applications. The end result, RabbitMQ is severed from a Docker container and can be used for any of your Django apps locally. 
 <br><br>
-* Link to Tutorial https://youtu.be/t2ZoVlqlQyA
+Link to Tutorial https://youtu.be/t2ZoVlqlQyA
+</details>
+
+<details>
+<summary><b>Part-8 Docker | PostgreSQL | pgAdmin and Custom Network Configuration</b>
+</summary>
+<br>
+Welcome to another Docker-Compose tutorial. The Windows platform does support PostgreSQL, but it can be much more convenient to install Postgres and manage PostgreSQL with pgAdmin in containers. In this tutorial we create a docker-compose file to configure Postgres and pgAdmin allowing any other application, in this tutorial Django to connect to it. We go the extra step of configuring the network, assigning static IP addressed to the containers.
+<br><br>
+Link to Tutorial https://youtu.be/_oqSGs3rrf8
 </details>
 
 ## Community Driven Content
