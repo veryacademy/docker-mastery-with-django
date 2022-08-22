@@ -151,3 +151,8 @@ Zander, the founder of Very Academy has over 20 years of development and educati
 
 ## License
 [MIT License](LICENSE)
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
